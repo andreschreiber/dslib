@@ -16,8 +16,6 @@
 #include <vector>
 #include <fstream>
 #include <sstream>
-#include <type_traits>
-#include <functional>
 #include "Helpers.h"
 
 #define DFLT_QUANT_TYPE double
